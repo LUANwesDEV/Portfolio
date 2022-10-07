@@ -1,2 +1,2 @@
 # Portifolio
-Criando meu portfolio com HTML, CSS, JavaScript e Phyton
+Criando meu portifolio com HTML, CSS, JavaScript e Phyton.
