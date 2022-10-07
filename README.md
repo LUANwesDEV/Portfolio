@@ -1,2 +1,2 @@
 # Portfólio
-Criando meu portfólio com HTML, CSS, JavaScript e Phyton.
+Criando meu portfólio com HTML, CSS, JavaScript, Bootstrap e Phyton.
